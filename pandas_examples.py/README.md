@@ -1,0 +1,1 @@
+Pandas recipe. I find pandas indexing counter intuitive, perhaps my intuitions were shaped by many years in the imperative world. I am collecting some recipes to do things quickly in pandas & to jog my memory. 
